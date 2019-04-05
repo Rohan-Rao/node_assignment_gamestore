@@ -5,7 +5,7 @@ const Joi = require('Joi');//Joi for validation
  * @param { a string representing name of game } gameName
  * @param { a array of gaming platforms } gamePlatform
  * @param { a string representing catefory for the game } gameCategory
- * @param { a number representing game price } gamePrice: 
+ * @param { a number representing game price } gamePrice 
  * @param { a number for number of games in stock } inStock
  * @function game: instializes game object    
  */
